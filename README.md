@@ -1,2 +1,2 @@
 # odin-recipes
-A project showing my current progress from 'Recipes' on The Odin Project
+A project showing my current progress from working on 'Recipes' on The Odin Project
