@@ -3,25 +3,25 @@ body {
 }
 
 h1 {
+    color: rgb(156, 121, 87);
     font-size: 750%;
     font-family: 'Courier New', Courier, monospace;
-    color: rgb(156, 121, 87);
 }
 
 h1 a:hover {
-    color: whitesmoke;
     background-color: #d24a4a;
+    color: whitesmoke;
 }
 
 li {
     display:block;
     font-size: 250%;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    padding: 50px;
     float: left;
+    padding: 50px;
 }
 
 li a:hover {
-    color:antiquewhite;
     background-color: #a94a4a;
+    color:antiquewhite;
 }
