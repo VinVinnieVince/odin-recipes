@@ -1,0 +1,16 @@
+body {
+    background-color: antiquewhite;
+}
+
+h1 {
+    font-size: 750%;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(156, 121, 87);
+}
+
+li {
+    font-size: 250%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 50px;
+    float: left;
+}
