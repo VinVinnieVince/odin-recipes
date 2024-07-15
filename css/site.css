@@ -9,9 +9,16 @@ body {
     text-align: center;
 }
 
+.container {
+    background-color: rgb(255, 255, 255);
+    border-radius: 200em;
+    padding: 2em;
+}
+
 .heading a:hover {
     background-color: #d24a4a;
     color: whitesmoke;
+    padding: 0.5em;
 }
 
 .recipelist li{
@@ -19,9 +26,12 @@ body {
     font-size: 250%;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     margin: 0 3em;
+    padding: 0 0.3em;
 }
 
-.recipelist li:hover {
+.recipelist li:hover,
+.recipelist a:hover {
     background-color: #a94a4a;
+    border-radius: 5em;
     color:antiquewhite;
 }
