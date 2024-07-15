@@ -14,15 +14,14 @@ body {
     color: whitesmoke;
 }
 
-li {
-    display: block;
+.recipelist li{
+    display: inline-block;
     font-size: 250%;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    float: left;
-    padding: 50px;
+    margin: 0 3em;
 }
 
-li a:hover {
+.recipelist li:hover {
     background-color: #a94a4a;
     color:antiquewhite;
 }
