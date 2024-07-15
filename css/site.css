@@ -6,6 +6,7 @@ body {
     color: rgb(156, 121, 87);
     font-size: 750%;
     font-family: 'Courier New', Courier, monospace;
+    text-align: center;
 }
 
 .heading a:hover {
@@ -14,7 +15,7 @@ body {
 }
 
 li {
-    display:block;
+    display: block;
     font-size: 250%;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     float: left;
