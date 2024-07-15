@@ -2,13 +2,13 @@ body {
     background-color: antiquewhite;
 }
 
-h1 {
+.heading {
     color: rgb(156, 121, 87);
     font-size: 750%;
     font-family: 'Courier New', Courier, monospace;
 }
 
-h1 a:hover {
+.heading a:hover {
     background-color: #d24a4a;
     color: whitesmoke;
 }
